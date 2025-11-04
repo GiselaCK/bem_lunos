@@ -133,7 +133,7 @@ A aplicação de **modelos de aprendizado de máquina** neste contexto permite *
 |-------------|--------|
 | **Gisela C. Kassick** | [@GiselaCK](https://github.com/GiselaCK) |
 | **Giovani M. Nagano** | [@giovaninagano5](https://github.com/giovaninagano5) | 
-| **Rebeka L. Batichotti** | — |
+| **Rebeka L. Batichotti** | [@Rebekabatichotti](https://github.com/Rebekabatichotti) |
 
 > Todos os membros participaram colaborativamente na elaboração dos códigos, apresentação e README do projeto.
 
