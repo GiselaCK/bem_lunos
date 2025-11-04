@@ -93,8 +93,7 @@ O projeto implementa e compara **cinco abordagens principais**:
 
 ## Justificativa Teórica
 
-De acordo com o artigo “Factors Affecting Students’ Performance: A Case of Students of Business Studies Faculty, King Abdulaziz University”
-(https://d1wqtxts1xzle7.cloudfront.net/56029351/student_performance-libre.pdf?1520838052=&response-content-disposition=inline%3B+filename%3DFACTORS_AFFECTING_STUDENTS_PERFORMANCE_A.pdf&Expires=1762262472&Signature=EO7IVnM7IJzBVzdc~Tbm9dVFIa7t8gXxGqD1VkN0T9Anc7c5HYW9D8clsvk~w9l81HII8RRv3nkI33kEBQinhUsiB770DB8D4GYy8Kyw2diNKbl1Yp9y5sfHnXgJPmDFb74OHOjbm0y95dEv4WSSIDNbATByKkkb4GGw7qu1kv1~yn7DYlPDXqJdnwDv-nawm68fuJNZjemduXG1nhZ1g1qXwWhmOjE3zv8zW8n5Qbpi~3zkSUwNr90OFDcSOXwKqCPYNDHoUYH7Sj4uWPHl1tWGCvBPkHEggSHDI1935aok4tg7XehcDcOh76P276qykZ-55TaMtpOHBSIqELt-JA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), o desempenho acadêmico é um fenômeno **multifatorial**, influenciado tanto por aspectos **individuais** (como tempo de estudo, sono e motivação) quanto **externos** (como suporte familiar e ambiente escolar).
+De acordo com o artigo [“Factors Affecting Students’ Performance: A Case of Students of Business Studies Faculty, King Abdulaziz University”](https://d1wqtxts1xzle7.cloudfront.net/56029351/student_performance-libre.pdf?1520838052=&response-content-disposition=inline%3B+filename%3DFACTORS_AFFECTING_STUDENTS_PERFORMANCE_A.pdf&Expires=1762262472&Signature=EO7IVnM7IJzBVzdc~Tbm9dVFIa7t8gXxGqD1VkN0T9Anc7c5HYW9D8clsvk~w9l81HII8RRv3nkI33kEBQinhUsiB770DB8D4GYy8Kyw2diNKbl1Yp9y5sfHnXgJPmDFb74OHOjbm0y95dEv4WSSIDNbATByKkkb4GGw7qu1kv1~yn7DYlPDXqJdnwDv-nawm68fuJNZjemduXG1nhZ1g1qXwWhmOjE3zv8zW8n5Qbpi~3zkSUwNr90OFDcSOXwKqCPYNDHoUYH7Sj4uWPHl1tWGCvBPkHEggSHDI1935aok4tg7XehcDcOh76P276qykZ-55TaMtpOHBSIqELt-JA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), o desempenho acadêmico é um fenômeno **multifatorial**, influenciado tanto por aspectos **individuais** (como tempo de estudo, sono e motivação) quanto **externos** (como suporte familiar e ambiente escolar).
 
 A aplicação de **modelos de aprendizado de máquina** neste contexto permite **quantificar o impacto de cada variável**, fornecendo previsões mais robustas e insights explicativos sobre a dinâmica do aprendizado — um avanço em relação às abordagens puramente estatísticas tradicionais.
 
@@ -133,7 +132,7 @@ A aplicação de **modelos de aprendizado de máquina** neste contexto permite *
 | Integrante | GitHub |
 |-------------|--------|
 | **Gisela C. Kassick** | [@GiselaCK](https://github.com/GiselaCK) |
-| **Giovani M. Nagano** | — | 
+| **Giovani M. Nagano** | [@giovaninagano5](https://github.com/giovaninagano5) | 
 | **Rebeka L. Batichotti** | — |
 
 > Todos os membros participaram colaborativamente na elaboração dos códigos, apresentação e README do projeto.
