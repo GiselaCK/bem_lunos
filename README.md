@@ -109,8 +109,6 @@ A aplicação de **modelos de aprendizado de máquina** neste contexto permite *
   Disponível em: (https://d1wqtxts1xzle7.cloudfront.net/56029351/student_performance-libre.pdf?1520838052=&response-content-disposition=inline%3B+filename%3DFACTORS_AFFECTING_STUDENTS_PERFORMANCE_A.pdf&Expires=1762262472&Signature=EO7IVnM7IJzBVzdc~Tbm9dVFIa7t8gXxGqD1VkN0T9Anc7c5HYW9D8clsvk~w9l81HII8RRv3nkI33kEBQinhUsiB770DB8D4GYy8Kyw2diNKbl1Yp9y5sfHnXgJPmDFb74OHOjbm0y95dEv4WSSIDNbATByKkkb4GGw7qu1kv1~yn7DYlPDXqJdnwDv-nawm68fuJNZjemduXG1nhZ1g1qXwWhmOjE3zv8zW8n5Qbpi~3zkSUwNr90OFDcSOXwKqCPYNDHoUYH7Sj4uWPHl1tWGCvBPkHEggSHDI1935aok4tg7XehcDcOh76P276qykZ-55TaMtpOHBSIqELt-JA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).  
   Acesso em: 12 jun. 2025.
 
-- **GERON, A.** *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow.* 3ª ed. O’Reilly Media, 2022.
-
 - **SCIKIT-LEARN Developers.** *Scikit-learn Documentation.*  
   Disponível em: [https://scikit-learn.org/stable/documentation.html](https://scikit-learn.org/stable/documentation.html).  
   Acesso em: 10 jun. 2025.
